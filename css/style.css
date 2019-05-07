@@ -280,3 +280,201 @@ body {
 	color:#191919;
 	font-weight: 600;
 }
+
+header a{
+	color: #fff;
+}
+
+
+header a:hover{
+	color: #ff4514;
+}
+
+#learn {
+	text-align: left;
+}
+#learn img{
+	margin-bottom: 10px;
+	
+}
+
+#learn h6{
+	font-size: 14px;
+}
+
+#learn h3{
+	color:#191919;
+	font-size: 20px;
+	margin: 15px 0;
+	
+}
+
+#learn p{
+	font-size: 16px;
+	
+	
+}
+
+
+#learn h1{
+	text-align: center;
+	margin-bottom: 45px;
+}
+#learn img{
+	width: 60px;
+	margin-bottom: 15px;
+}
+
+
+#counter {
+	background-image: url(../img/bg-counter.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 100px 0;
+	
+}
+
+
+#counter h1{
+	color:#ff4514;
+	font-size: 100px;
+	text-align: center;
+	font-weight: 900;
+}
+
+
+#counter h2{
+	color:#fff;
+	font-size: 14px;
+	text-align: center;
+	font-weight:200;
+}
+
+#speakers {
+	background-color: #fff;
+	text-align: center;
+	padding: 100px 0;
+}
+
+
+#speakers p{
+	padding-bottom: 20px;
+}
+
+
+#speakers h3 {
+	color: #191919;
+	font-size:25px;
+	padding-top: 20px;
+}
+
+
+
+#speakers h4{
+	font-size: 12px;
+	color: #ff4514;
+}
+
+#speakers h5{
+	font-size: 15px;
+	padding: 15px 0;
+	
+}
+
+#speakers a{
+	color: #9b9b9b;
+}
+
+#speakers img{
+	border-radius: 200px;
+}
+
+
+#schedule {
+	text-align: center;
+	background-image: url(../img/bg-schedule.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 150px 0;
+}
+
+
+#schedule h1 {
+	padding-bottom: 20px;
+}
+
+#schedule h3 {
+	padding-bottom: 20px;
+	font-size: 15px;
+}
+
+
+#schedule p{
+	font-size: 14px;
+	color: #191919;
+}
+
+#schedule h4{
+	color:#191919;
+	font-size: 40px;
+	font-weight: 600;
+	
+}
+
+#schedule h2{
+	text-align:center;
+	font-size: 22px;
+	margin: 35px 0;
+	padding-bottom: 20px;
+	color: #191919;
+	background-color: #fff;
+	padding-top: 10px;
+}
+
+#register {
+	text-align: center;
+	background-image: url(../img/bg-call-action.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 150px 0;
+	color: #fff;
+}
+
+#register h1{
+	text-align: center;
+	font-weight: 700;
+	color:#fff;
+	padding-bottom: 25px;
+	padding-left: 450px;
+}
+
+.btn-naranja-space{
+	padding-left: 450px;
+	
+}
+
+.ocultar {
+	display: none;
+}
+
+
+footer{
+	background-color: #191919;
+	text-align: center;
+	margin-left:850px;
+	padding: 100px 0;
+}
+
+
+.btn-naraja-3 {
+	background-color: #ff4514;
+	color: #FFF !important;
+	border-radius: 200px;
+	padding: 10px 55px;   
+	font-weight: 100;
+	text-transform: uppercase;
+	text-decoration: none;
+}
